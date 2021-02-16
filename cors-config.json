@@ -1,0 +1,16 @@
+{
+"cors": [
+  {
+    "origin": [
+  	"https://example.com"
+    ],
+    "method": [
+    	"GET", "HEAD", "OPTIONS"
+    ],
+    "responseHeader": [
+      "Content-Type"
+    ],
+    "maxAgeSeconds": 0
+  }
+]
+}
